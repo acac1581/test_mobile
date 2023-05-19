@@ -1,0 +1,27 @@
+
+18021.png
+size: 190,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cay1
+  rotate: true
+  xy: 87, 49
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+cay1_sang
+  rotate: true
+  xy: 87, 2
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+shockwave
+  rotate: false
+  xy: 2, 11
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

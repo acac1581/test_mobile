@@ -1,0 +1,118 @@
+
+13042.png
+size: 327,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/112 (10)
+  rotate: true
+  xy: 86, 36
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+Fx/112 (11)
+  rotate: true
+  xy: 144, 49
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+Fx/112 (12)
+  rotate: false
+  xy: 162, 122
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+Fx/112 (13)
+  rotate: true
+  xy: 229, 122
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+Fx/112 (14)
+  rotate: false
+  xy: 201, 60
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+Fx/112 (15)
+  rotate: true
+  xy: 268, 55
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Fx/112 (16)
+  rotate: true
+  xy: 144, 15
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Fx/112 (6)
+  rotate: true
+  xy: 186, 192
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+Fx/112 (7)
+  rotate: false
+  xy: 261, 183
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+Fx/112 (8)
+  rotate: false
+  xy: 250, 253
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+Fx/112 (9)
+  rotate: false
+  xy: 186, 251
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+Laser
+  rotate: false
+  xy: 2, 108
+  size: 94, 217
+  orig: 94, 217
+  offset: 0, 0
+  index: -1
+Laser_M1
+  rotate: false
+  xy: 98, 200
+  size: 86, 125
+  orig: 86, 125
+  offset: 0, 0
+  index: -1
+Laser_M2
+  rotate: false
+  xy: 2, 25
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+Laser_M3
+  rotate: false
+  xy: 98, 119
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+Laser_M4
+  rotate: false
+  xy: 299, 163
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

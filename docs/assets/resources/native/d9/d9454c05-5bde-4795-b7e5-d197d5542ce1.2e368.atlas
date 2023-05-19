@@ -1,0 +1,90 @@
+
+13011.png
+size: 321,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodi
+  rotate: true
+  xy: 116, 35
+  size: 41, 108
+  orig: 41, 108
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00000
+  rotate: false
+  xy: 262, 20
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00002
+  rotate: false
+  xy: 282, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00003
+  rotate: false
+  xy: 116, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00004
+  rotate: false
+  xy: 183, 16
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00005
+  rotate: true
+  xy: 284, 34
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00006
+  rotate: true
+  xy: 226, 8
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00008
+  rotate: false
+  xy: 226, 40
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00009
+  rotate: false
+  xy: 206, 13
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00011
+  rotate: true
+  xy: 150, 12
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+electric_1/Electric_1_00014
+  rotate: false
+  xy: 262, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shroom
+  rotate: false
+  xy: 2, 7
+  size: 112, 69
+  orig: 112, 69
+  offset: 0, 0
+  index: -1

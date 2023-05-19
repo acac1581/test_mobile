@@ -1,0 +1,41 @@
+
+19042.png
+size: 204,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 103
+  size: 131, 179
+  orig: 131, 179
+  offset: 0, 0
+  index: -1
+body_blur
+  rotate: true
+  xy: 2, 2
+  size: 99, 136
+  orig: 99, 136
+  offset: 0, 0
+  index: -1
+body_glow
+  rotate: false
+  xy: 135, 192
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+mask_1
+  rotate: false
+  xy: 135, 104
+  size: 64, 86
+  orig: 66, 90
+  offset: 1, 1
+  index: -1
+mask_2
+  rotate: false
+  xy: 140, 16
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1

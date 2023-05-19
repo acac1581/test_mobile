@@ -1,0 +1,90 @@
+
+18041.png
+size: 168,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elements - Smoke 034 Up noCT noRSZ 03
+  rotate: true
+  xy: 53, 45
+  size: 20, 9
+  orig: 50, 62
+  offset: 4, 0
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 05
+  rotate: true
+  xy: 131, 145
+  size: 28, 18
+  orig: 50, 62
+  offset: 2, 1
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 07
+  rotate: true
+  xy: 131, 175
+  size: 36, 32
+  orig: 50, 62
+  offset: 2, 0
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 09
+  rotate: false
+  xy: 123, 17
+  size: 42, 44
+  orig: 50, 62
+  offset: 2, 0
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 11
+  rotate: false
+  xy: 116, 63
+  size: 46, 54
+  orig: 50, 62
+  offset: 1, 0
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 13
+  rotate: true
+  xy: 64, 7
+  size: 48, 57
+  orig: 50, 62
+  offset: 1, 0
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 15
+  rotate: true
+  xy: 2, 67
+  size: 50, 60
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 17
+  rotate: false
+  xy: 64, 57
+  size: 50, 60
+  orig: 50, 62
+  offset: 0, 1
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 19
+  rotate: false
+  xy: 2, 4
+  size: 49, 61
+  orig: 50, 62
+  offset: 0, 1
+  index: -1
+Elements - Smoke 034 Up noCT noRSZ 21
+  rotate: false
+  xy: 131, 213
+  size: 35, 48
+  orig: 50, 62
+  offset: 3, 14
+  index: -1
+body
+  rotate: false
+  xy: 2, 119
+  size: 127, 142
+  orig: 127, 142
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 123, 2
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1

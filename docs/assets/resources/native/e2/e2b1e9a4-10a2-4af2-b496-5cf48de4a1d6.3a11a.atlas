@@ -1,0 +1,83 @@
+
+12011.png
+size: 142,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot
+  rotate: true
+  xy: 92, 48
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 01
+  rotate: false
+  xy: 117, 2
+  size: 18, 16
+  orig: 27, 41
+  offset: 3, 0
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 03
+  rotate: false
+  xy: 56, 9
+  size: 23, 23
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 05
+  rotate: true
+  xy: 117, 20
+  size: 26, 22
+  orig: 27, 41
+  offset: 1, 1
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 07
+  rotate: true
+  xy: 30, 5
+  size: 26, 24
+  orig: 27, 41
+  offset: 0, 5
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 09
+  rotate: false
+  xy: 2, 3
+  size: 26, 28
+  orig: 27, 41
+  offset: 1, 4
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 11
+  rotate: false
+  xy: 60, 36
+  size: 27, 31
+  orig: 27, 41
+  offset: 0, 5
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 13
+  rotate: false
+  xy: 2, 33
+  size: 27, 34
+  orig: 27, 41
+  offset: 0, 7
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 15
+  rotate: false
+  xy: 31, 34
+  size: 27, 33
+  orig: 27, 41
+  offset: 0, 8
+  index: -1
+spin/Elements - Energy 075 Ray Up noCT noRSZ 17
+  rotate: false
+  xy: 89, 16
+  size: 26, 30
+  orig: 27, 41
+  offset: 1, 11
+  index: -1
+top
+  rotate: false
+  xy: 2, 69
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1

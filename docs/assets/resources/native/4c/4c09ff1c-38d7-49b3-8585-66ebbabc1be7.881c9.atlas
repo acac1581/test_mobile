@@ -1,0 +1,62 @@
+
+11012.png
+size: 536,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 146, 2
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+body_glow
+  rotate: true
+  xy: 269, 2
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+bub
+  rotate: false
+  xy: 519, 30
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 392, 8
+  size: 128, 107
+  orig: 128, 107
+  offset: 0, 0
+  index: -1
+flower_glow
+  rotate: false
+  xy: 2, 13
+  size: 142, 123
+  orig: 147, 125
+  offset: 3, 0
+  index: -1
+leave_1
+  rotate: false
+  xy: 501, 91
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+leave_3
+  rotate: false
+  xy: 501, 7
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+leave_5
+  rotate: false
+  xy: 501, 49
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1

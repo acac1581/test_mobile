@@ -1,0 +1,83 @@
+
+13051.png
+size: 487,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fbf/Elec_00000
+  rotate: false
+  xy: 378, 61
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00003
+  rotate: false
+  xy: 432, 63
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00005
+  rotate: true
+  xy: 216, 56
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00008
+  rotate: false
+  xy: 216, 2
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00010
+  rotate: true
+  xy: 328, 58
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00012
+  rotate: true
+  xy: 273, 57
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00016
+  rotate: false
+  xy: 283, 2
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00018
+  rotate: true
+  xy: 409, 2
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+Fbf/Elec_00021
+  rotate: true
+  xy: 349, 2
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+bodu
+  rotate: false
+  xy: 129, 20
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+headglow
+  rotate: false
+  xy: 2, 2
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1

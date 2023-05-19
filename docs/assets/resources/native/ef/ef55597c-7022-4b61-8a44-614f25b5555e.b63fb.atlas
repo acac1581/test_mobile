@@ -1,0 +1,62 @@
+
+11032.png
+size: 218,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 419
+  size: 93, 214
+  orig: 93, 214
+  offset: 0, 0
+  index: -1
+Body_outerglow
+  rotate: true
+  xy: 2, 210
+  size: 112, 150
+  orig: 112, 150
+  offset: 0, 0
+  index: -1
+Elip
+  rotate: true
+  xy: 129, 116
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+Elip_glow
+  rotate: true
+  xy: 129, 22
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+FX/224 (1)
+  rotate: false
+  xy: 2, 2
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+body_glow
+  rotate: true
+  xy: 2, 324
+  size: 93, 214
+  orig: 93, 214
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 154, 285
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+glowy
+  rotate: false
+  xy: 2, 83
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+16021.png
+size: 188,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bott
+  rotate: false
+  xy: 2, 83
+  size: 112, 59
+  orig: 112, 59
+  offset: 0, 0
+  index: -1
+bott_glow
+  rotate: false
+  xy: 74, 2
+  size: 112, 59
+  orig: 112, 59
+  offset: 0, 0
+  index: -1
+topp
+  rotate: false
+  xy: 116, 63
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+topp_glow
+  rotate: false
+  xy: 2, 2
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1

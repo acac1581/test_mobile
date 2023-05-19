@@ -1,0 +1,41 @@
+
+19011.png
+size: 287,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snowflake
+  rotate: false
+  xy: 240, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+bodi
+  rotate: false
+  xy: 240, 32
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 106, 2
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+head_glow
+  rotate: true
+  xy: 2, 2
+  size: 85, 102
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+head_sweep
+  rotate: false
+  xy: 175, 6
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1

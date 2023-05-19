@@ -1,0 +1,55 @@
+
+18022.png
+size: 266,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cay1
+  rotate: true
+  xy: 93, 53
+  size: 49, 109
+  orig: 49, 109
+  offset: 0, 0
+  index: -1
+cay1_sang
+  rotate: true
+  xy: 93, 2
+  size: 49, 109
+  orig: 49, 109
+  offset: 0, 0
+  index: -1
+cay2
+  rotate: true
+  xy: 2, 190
+  size: 84, 203
+  orig: 84, 203
+  offset: 0, 0
+  index: -1
+cay2_sang
+  rotate: true
+  xy: 2, 104
+  size: 84, 203
+  orig: 84, 203
+  offset: 0, 0
+  index: -1
+cay3
+  rotate: false
+  xy: 207, 149
+  size: 57, 125
+  orig: 57, 125
+  offset: 0, 0
+  index: -1
+cay3_sang
+  rotate: false
+  xy: 207, 22
+  size: 57, 125
+  orig: 57, 125
+  offset: 0, 0
+  index: -1
+shockwave
+  rotate: false
+  xy: 2, 13
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1

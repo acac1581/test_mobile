@@ -1,0 +1,41 @@
+
+14012.png
+size: 324,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 134, 2
+  size: 145, 110
+  orig: 145, 110
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 283, 35
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 11
+  size: 136, 130
+  orig: 136, 130
+  offset: 0, 0
+  index: -1
+head_part
+  rotate: false
+  xy: 246, 70
+  size: 76, 77
+  orig: 136, 130
+  offset: 37, 33
+  index: -1
+leaf
+  rotate: true
+  xy: 246, 27
+  size: 41, 35
+  orig: 41, 36
+  offset: 0, 0
+  index: -1

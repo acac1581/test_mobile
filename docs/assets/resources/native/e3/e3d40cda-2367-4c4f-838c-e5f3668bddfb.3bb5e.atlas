@@ -1,0 +1,41 @@
+
+17052.png
+size: 407,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: true
+  xy: 2, 11
+  size: 97, 209
+  orig: 97, 209
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 331, 3
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: true
+  xy: 213, 44
+  size: 64, 116
+  orig: 64, 116
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 250, 10
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Eye_Light
+  rotate: false
+  xy: 213, 2
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1

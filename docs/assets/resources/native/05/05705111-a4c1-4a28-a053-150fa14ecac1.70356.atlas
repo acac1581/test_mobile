@@ -1,0 +1,27 @@
+
+15031.png
+size: 78,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodii
+  rotate: false
+  xy: 2, 2
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2, 61
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 44, 24
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1

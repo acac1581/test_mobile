@@ -1,0 +1,48 @@
+
+15022.png
+size: 131,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gai1
+  rotate: false
+  xy: 98, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+gai2
+  rotate: true
+  xy: 98, 45
+  size: 25, 27
+  orig: 26, 27
+  offset: 1, 0
+  index: -1
+gai3
+  rotate: false
+  xy: 98, 22
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+hoa
+  rotate: true
+  xy: 2, 10
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 102
+  size: 134, 127
+  orig: 134, 127
+  offset: 0, 0
+  index: -1
+than1
+  rotate: true
+  xy: 98, 72
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

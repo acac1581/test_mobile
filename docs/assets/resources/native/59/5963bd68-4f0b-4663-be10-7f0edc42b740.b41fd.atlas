@@ -1,0 +1,27 @@
+
+14042.png
+size: 372,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 2
+  size: 100, 194
+  orig: 100, 194
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 104, 24
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+body_2_blur
+  rotate: false
+  xy: 257, 66
+  size: 113, 130
+  orig: 113, 130
+  offset: 0, 0
+  index: -1

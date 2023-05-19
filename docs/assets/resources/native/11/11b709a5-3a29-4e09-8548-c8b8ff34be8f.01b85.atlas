@@ -1,0 +1,27 @@
+
+17051.png
+size: 137,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodi
+  rotate: true
+  xy: 2, 2
+  size: 56, 115
+  orig: 56, 115
+  offset: 0, 0
+  index: -1
+eie
+  rotate: false
+  xy: 119, 33
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+eie_glow
+  rotate: false
+  xy: 119, 7
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1

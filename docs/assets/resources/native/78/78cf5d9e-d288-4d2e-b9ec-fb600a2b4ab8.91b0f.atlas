@@ -1,0 +1,111 @@
+
+15011.png
+size: 170,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_22/Fire_2_00002
+  rotate: true
+  xy: 46, 7
+  size: 26, 27
+  orig: 63, 63
+  offset: 6, 3
+  index: -1
+Fire_22/Fire_2_00004
+  rotate: false
+  xy: 2, 32
+  size: 42, 42
+  orig: 63, 63
+  offset: 8, 5
+  index: -1
+Fire_22/Fire_2_00006
+  rotate: true
+  xy: 52, 76
+  size: 42, 46
+  orig: 63, 63
+  offset: 10, 7
+  index: -1
+Fire_22/Fire_2_00008
+  rotate: true
+  xy: 117, 89
+  size: 43, 48
+  orig: 63, 63
+  offset: 12, 9
+  index: -1
+Fire_22/Fire_2_00010
+  rotate: true
+  xy: 117, 180
+  size: 45, 50
+  orig: 63, 63
+  offset: 13, 10
+  index: -1
+Fire_22/Fire_2_00012
+  rotate: true
+  xy: 117, 134
+  size: 44, 49
+  orig: 63, 63
+  offset: 14, 11
+  index: -1
+Fire_22/Fire_2_00014
+  rotate: true
+  xy: 2, 76
+  size: 42, 48
+  orig: 63, 63
+  offset: 16, 12
+  index: -1
+Fire_22/Fire_2_00016
+  rotate: true
+  xy: 100, 46
+  size: 41, 45
+  orig: 63, 63
+  offset: 17, 13
+  index: -1
+Fire_22/Fire_2_00018
+  rotate: true
+  xy: 46, 35
+  size: 39, 42
+  orig: 63, 63
+  offset: 18, 15
+  index: -1
+Fire_22/Fire_2_00020
+  rotate: true
+  xy: 90, 8
+  size: 36, 40
+  orig: 63, 63
+  offset: 19, 15
+  index: -1
+Fire_22/Fire_2_00022
+  rotate: false
+  xy: 132, 2
+  size: 35, 32
+  orig: 63, 63
+  offset: 20, 20
+  index: -1
+Fire_22/Fire_2_00024
+  rotate: true
+  xy: 147, 62
+  size: 25, 21
+  orig: 63, 63
+  offset: 30, 28
+  index: -1
+Fire_22/Fire_2_00026
+  rotate: true
+  xy: 147, 36
+  size: 24, 20
+  orig: 63, 63
+  offset: 31, 29
+  index: -1
+bot
+  rotate: false
+  xy: 2, 120
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+glowy
+  rotate: true
+  xy: 100, 104
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1

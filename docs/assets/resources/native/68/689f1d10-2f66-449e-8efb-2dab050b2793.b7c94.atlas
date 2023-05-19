@@ -1,0 +1,118 @@
+
+2702.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 101
+  size: 118, 157
+  orig: 118, 157
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: false
+  xy: 2, 27
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 224, 182
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Brush1
+  rotate: false
+  xy: 186, 32
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Bush2
+  rotate: true
+  xy: 185, 214
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Bush3
+  rotate: false
+  xy: 206, 68
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 122, 113
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 227, 215
+  size: 12, 8
+  orig: 13, 9
+  offset: 0, 1
+  index: -1
+Eye_Center1
+  rotate: true
+  xy: 241, 217
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+Eye_Center2
+  rotate: false
+  xy: 186, 53
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Eye_Center2_light
+  rotate: false
+  xy: 227, 225
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Eye_Elip
+  rotate: false
+  xy: 185, 175
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Eye_Glow
+  rotate: true
+  xy: 186, 85
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Eye_light
+  rotate: false
+  xy: 184, 113
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Trunk_L
+  rotate: false
+  xy: 122, 175
+  size: 61, 83
+  orig: 64, 99
+  offset: 3, 16
+  index: -1
+Trunk_R
+  rotate: true
+  xy: 99, 38
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1

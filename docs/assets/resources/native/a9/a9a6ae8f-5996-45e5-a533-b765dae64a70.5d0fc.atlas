@@ -1,0 +1,20 @@
+
+18012.png
+size: 148,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 32
+  size: 93, 144
+  orig: 93, 144
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 2
+  size: 28, 115
+  orig: 28, 115
+  offset: 0, 0
+  index: -1

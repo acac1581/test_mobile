@@ -1,0 +1,62 @@
+
+19021.png
+size: 311,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star_01
+  rotate: false
+  xy: 281, 58
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+bodi
+  rotate: false
+  xy: 281, 30
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+bodi_glow
+  rotate: false
+  xy: 281, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+crytall
+  rotate: false
+  xy: 89, 24
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+crytall_glow
+  rotate: false
+  xy: 153, 24
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+crytall_glow_scale
+  rotate: true
+  xy: 217, 25
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+crytall_gloww
+  rotate: true
+  xy: 2, 2
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+dust
+  rotate: false
+  xy: 89, 9
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

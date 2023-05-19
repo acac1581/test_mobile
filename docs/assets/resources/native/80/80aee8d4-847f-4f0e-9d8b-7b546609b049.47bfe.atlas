@@ -1,0 +1,62 @@
+
+19022.png
+size: 581,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star_01
+  rotate: false
+  xy: 538, 3
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 10
+  size: 92, 156
+  orig: 92, 156
+  offset: 0, 0
+  index: -1
+body_glow
+  rotate: true
+  xy: 160, 10
+  size: 92, 156
+  orig: 92, 156
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: false
+  xy: 427, 15
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+crystal_glow
+  rotate: true
+  xy: 492, 39
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+crystal_gloww
+  rotate: true
+  xy: 318, 20
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+crystal_scale
+  rotate: true
+  xy: 492, 5
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dust
+  rotate: false
+  xy: 318, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+11031.png
+size: 342,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+224 (1)
+  rotate: false
+  xy: 124, 47
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 279, 64
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+ball_glow
+  rotate: true
+  xy: 279, 3
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 202, 58
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 179, 6
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+glowy
+  rotate: true
+  xy: 2, 2
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+gold bot
+  rotate: false
+  xy: 235, 93
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+gold top
+  rotate: true
+  xy: 235, 59
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+goldbot_glow
+  rotate: false
+  xy: 217, 8
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+goldtop_glow
+  rotate: false
+  xy: 124, 5
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 257, 81
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

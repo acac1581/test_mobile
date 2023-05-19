@@ -1,0 +1,76 @@
+
+16022.png
+size: 184,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 332
+  size: 94, 146
+  orig: 94, 146
+  offset: 0, 0
+  index: -1
+Body_light
+  rotate: true
+  xy: 2, 236
+  size: 94, 146
+  orig: 94, 146
+  offset: 0, 0
+  index: -1
+Leaves_1
+  rotate: false
+  xy: 2, 14
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+Leaves_1_light
+  rotate: false
+  xy: 84, 2
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+Leaves_2
+  rotate: true
+  xy: 2, 74
+  size: 160, 53
+  orig: 160, 53
+  offset: 0, 0
+  index: -1
+Leaves_2_light
+  rotate: true
+  xy: 57, 74
+  size: 160, 53
+  orig: 160, 53
+  offset: 0, 0
+  index: -1
+Leaves_3
+  rotate: true
+  xy: 150, 331
+  size: 95, 27
+  orig: 95, 27
+  offset: 0, 0
+  index: -1
+Leaves_3_light
+  rotate: true
+  xy: 150, 234
+  size: 95, 27
+  orig: 95, 27
+  offset: 0, 0
+  index: -1
+Leaves_4
+  rotate: false
+  xy: 112, 148
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+Leaves_4_light
+  rotate: false
+  xy: 112, 62
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1

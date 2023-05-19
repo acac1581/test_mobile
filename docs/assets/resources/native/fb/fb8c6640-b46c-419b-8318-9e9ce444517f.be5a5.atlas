@@ -1,0 +1,41 @@
+
+14051.png
+size: 149,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodi
+  rotate: false
+  xy: 2, 2
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+bomb_ef
+  rotate: true
+  xy: 2, 105
+  size: 150, 145
+  orig: 150, 150
+  offset: 0, 2
+  index: -1
+glow
+  rotate: false
+  xy: 105, 57
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+music-icon-5-produc
+  rotate: false
+  xy: 78, 8
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+music2
+  rotate: false
+  xy: 78, 45
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
