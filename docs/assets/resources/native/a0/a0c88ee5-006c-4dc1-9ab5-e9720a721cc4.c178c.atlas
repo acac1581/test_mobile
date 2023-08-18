@@ -1,0 +1,174 @@
+
+Liveena.png
+size: 133,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elements - Liquid 035 Ripple Up noCT noRSZ 01
+  rotate: true
+  xy: 2, 2
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Elements - Liquid 035 Ripple Up noCT noRSZ 03
+  rotate: true
+  xy: 17, 2
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Elements - Liquid 035 Ripple Up noCT noRSZ 05
+  rotate: true
+  xy: 32, 2
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Elements - Liquid 035 Ripple Up noCT noRSZ 07
+  rotate: true
+  xy: 47, 2
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Elements - Liquid 035 Ripple Up noCT noRSZ 09
+  rotate: true
+  xy: 48, 47
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Elements - Liquid 035 Ripple Up noCT noRSZ 11
+  rotate: false
+  xy: 63, 68
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Elements - Liquid 035 Ripple Up noCT noRSZ 13
+  rotate: false
+  xy: 63, 53
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Fx/56 (10)
+  rotate: false
+  xy: 106, 55
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Fx/56 (2)
+  rotate: true
+  xy: 2, 86
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+Fx/56 (3)
+  rotate: true
+  xy: 66, 83
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+Fx/56 (4)
+  rotate: true
+  xy: 75, 266
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Fx/56 (5)
+  rotate: true
+  xy: 86, 307
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Fx/56 (6)
+  rotate: true
+  xy: 62, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Fx/56 (7)
+  rotate: false
+  xy: 2, 41
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Fx/72_3 (1)
+  rotate: false
+  xy: 2, 279
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Fx/72_3 (2)
+  rotate: false
+  xy: 2, 233
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Fx/72_3 (3)
+  rotate: true
+  xy: 75, 193
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Fx/72_3 (4)
+  rotate: false
+  xy: 2, 187
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Fx/72_3 (5)
+  rotate: true
+  xy: 75, 120
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Fx/72_3 (6)
+  rotate: false
+  xy: 2, 141
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+bongmatnc
+  rotate: false
+  xy: 2, 115
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+la1
+  rotate: false
+  xy: 2, 427
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+la2
+  rotate: false
+  xy: 2, 352
+  size: 121, 73
+  orig: 121, 73
+  offset: 0, 0
+  index: -1
+matnc
+  rotate: false
+  xy: 2, 325
+  size: 82, 25
+  orig: 82, 25
+  offset: 0, 0
+  index: -1

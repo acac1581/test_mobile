@@ -1,0 +1,48 @@
+
+Freezie.png
+size: 215,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 135, 54
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 2, 10
+  size: 100, 131
+  orig: 100, 131
+  offset: 0, 0
+  index: -1
+Leaf_Left
+  rotate: false
+  xy: 135, 2
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+Leaf_Right
+  rotate: true
+  xy: 174, 83
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Star
+  rotate: true
+  xy: 174, 46
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Star_Bright
+  rotate: false
+  xy: 165, 8
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1

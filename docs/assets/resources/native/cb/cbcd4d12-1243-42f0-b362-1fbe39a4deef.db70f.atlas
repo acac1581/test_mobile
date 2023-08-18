@@ -1,0 +1,83 @@
+
+91_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leaves_2
+  rotate: true
+  xy: 292, 8
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+Leaves_3
+  rotate: false
+  xy: 2, 324
+  size: 352, 160
+  orig: 352, 160
+  offset: 0, 0
+  index: -1
+Leaves_4
+  rotate: false
+  xy: 387, 150
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+back_glow
+  rotate: false
+  xy: 292, 260
+  size: 61, 62
+  orig: 63, 64
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 356, 201
+  size: 120, 283
+  orig: 120, 283
+  offset: 0, 0
+  index: -1
+leaves_1
+  rotate: false
+  xy: 381, 26
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 292, 92
+  size: 107, 93
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+root
+  rotate: true
+  xy: 2, 41
+  size: 281, 288
+  orig: 281, 291
+  offset: 0, 2
+  index: -1
+seed_3
+  rotate: false
+  xy: 456, 138
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+seed_4
+  rotate: false
+  xy: 456, 170
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+seed_5
+  rotate: true
+  xy: 292, 221
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1

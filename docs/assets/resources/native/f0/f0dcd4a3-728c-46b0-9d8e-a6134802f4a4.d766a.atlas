@@ -1,0 +1,34 @@
+
+Spoore.png
+size: 108,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+catus
+  rotate: false
+  xy: 2, 2
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+thorn1
+  rotate: false
+  xy: 62, 4
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+thorn2
+  rotate: false
+  xy: 62, 37
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+thorn3
+  rotate: false
+  xy: 88, 43
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

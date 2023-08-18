@@ -1,0 +1,104 @@
+
+Worm_Baby.png
+size: 497,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bubble_Sleep
+  rotate: true
+  xy: 2, 3
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+Happy_Line
+  rotate: false
+  xy: 111, 6
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+Surprise
+  rotate: true
+  xy: 262, 35
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+Tired_Breath
+  rotate: true
+  xy: 387, 25
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 111, 48
+  size: 149, 73
+  orig: 149, 73
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 193, 9
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: true
+  xy: 229, 10
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+eye_happy1
+  rotate: true
+  xy: 262, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+eye_happy2
+  rotate: false
+  xy: 385, 2
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+eyeclose1
+  rotate: true
+  xy: 299, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+eyeclose2
+  rotate: false
+  xy: 414, 2
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 336, 4
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+pupilL
+  rotate: true
+  xy: 365, 19
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+pupilR
+  rotate: true
+  xy: 365, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

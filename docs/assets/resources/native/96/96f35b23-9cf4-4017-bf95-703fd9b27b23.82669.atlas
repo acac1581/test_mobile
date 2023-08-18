@@ -1,0 +1,20 @@
+
+Hoola.png
+size: 119,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hoola1
+  rotate: true
+  xy: 47, 36
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+Hoola2
+  rotate: false
+  xy: 2, 2
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1

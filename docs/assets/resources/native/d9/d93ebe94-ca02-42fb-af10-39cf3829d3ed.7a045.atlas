@@ -1,0 +1,90 @@
+
+Carrablast.png
+size: 141,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_down
+  rotate: true
+  xy: 2, 295
+  size: 98, 135
+  orig: 98, 135
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 2, 193
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 395
+  size: 137, 120
+  orig: 137, 120
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 2, 124
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 2, 2
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: true
+  xy: 2, 43
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+leaf3b
+  rotate: true
+  xy: 97, 69
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: true
+  xy: 82, 113
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+leaf4a
+  rotate: false
+  xy: 54, 8
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+rau1
+  rotate: false
+  xy: 64, 37
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+rau2
+  rotate: false
+  xy: 117, 136
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+rauup
+  rotate: false
+  xy: 117, 103
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+sapling.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+autumn_body
+  rotate: false
+  xy: 2, 381
+  size: 344, 430
+  orig: 344, 430
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 2, 5
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 33, 8
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+eye_happy
+  rotate: false
+  xy: 89, 14
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+eye_win_L
+  rotate: false
+  xy: 120, 14
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+eye_win_R
+  rotate: false
+  xy: 62, 11
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 422, 396
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1
+spring_body
+  rotate: true
+  xy: 2, 35
+  size: 344, 430
+  orig: 344, 430
+  offset: 0, 0
+  index: -1
+spring_numvu
+  rotate: true
+  xy: 348, 394
+  size: 71, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+summer_body
+  rotate: true
+  xy: 348, 467
+  size: 344, 430
+  orig: 344, 430
+  offset: 0, 0
+  index: -1
+winter_body
+  rotate: false
+  xy: 434, 2
+  size: 344, 392
+  orig: 344, 430
+  offset: 0, 0
+  index: -1

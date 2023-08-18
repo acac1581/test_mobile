@@ -1,0 +1,104 @@
+
+Cactyrant.png
+size: 282,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gai1
+  rotate: true
+  xy: 225, 3
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+gai2
+  rotate: false
+  xy: 163, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+gai3
+  rotate: false
+  xy: 265, 14
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+gai4
+  rotate: true
+  xy: 178, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+gai5
+  rotate: false
+  xy: 193, 3
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+gai6
+  rotate: false
+  xy: 248, 50
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+gai7
+  rotate: false
+  xy: 248, 12
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+gai8
+  rotate: false
+  xy: 209, 3
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hoa
+  rotate: false
+  xy: 132, 16
+  size: 114, 75
+  orig: 114, 75
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 5
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+than1
+  rotate: true
+  xy: 248, 31
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 248, 68
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+than3
+  rotate: true
+  xy: 132, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+than34
+  rotate: true
+  xy: 148, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

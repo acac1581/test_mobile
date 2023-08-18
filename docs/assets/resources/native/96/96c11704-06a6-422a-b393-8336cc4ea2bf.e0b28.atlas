@@ -1,0 +1,27 @@
+
+Terram.png
+size: 133,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Terram1
+  rotate: true
+  xy: 95, 26
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Terram2
+  rotate: true
+  xy: 95, 2
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Terram3
+  rotate: true
+  xy: 2, 3
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1

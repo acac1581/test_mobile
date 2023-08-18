@@ -1,0 +1,321 @@
+
+Mothsreen.png
+size: 1423,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 325
+  size: 300, 216
+  orig: 300, 216
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 1268, 38
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Face_Back
+  rotate: false
+  xy: 1142, 20
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 1054, 115
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+Tooth_B
+  rotate: false
+  xy: 1211, 26
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Tooth_T
+  rotate: false
+  xy: 1156, 89
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+WingL_1
+  rotate: false
+  xy: 1054, 2
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+WingL_2
+  rotate: true
+  xy: 937, 16
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+WingL_3
+  rotate: false
+  xy: 1331, 104
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+WingR_1
+  rotate: false
+  xy: 1156, 133
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+WingR_2
+  rotate: true
+  xy: 1236, 83
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+WingR_3
+  rotate: false
+  xy: 1331, 48
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/02
+  rotate: false
+  xy: 304, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/03
+  rotate: false
+  xy: 2, 98
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/04
+  rotate: false
+  xy: 440, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/05
+  rotate: false
+  xy: 138, 98
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/06
+  rotate: false
+  xy: 576, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/07
+  rotate: false
+  xy: 712, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/08
+  rotate: false
+  xy: 848, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/09
+  rotate: false
+  xy: 984, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/10
+  rotate: false
+  xy: 1120, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/11
+  rotate: false
+  xy: 1256, 387
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/12
+  rotate: true
+  xy: 1239, 251
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/13
+  rotate: true
+  xy: 274, 85
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/14
+  rotate: true
+  xy: 430, 85
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/15
+  rotate: true
+  xy: 586, 85
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/16
+  rotate: true
+  xy: 742, 85
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/17
+  rotate: true
+  xy: 898, 85
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_01
+  rotate: false
+  xy: 2, 15
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_02
+  rotate: false
+  xy: 304, 304
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_03
+  rotate: false
+  xy: 491, 304
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_04
+  rotate: false
+  xy: 678, 304
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_05
+  rotate: false
+  xy: 865, 304
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_06
+  rotate: false
+  xy: 1052, 304
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_07
+  rotate: false
+  xy: 301, 221
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_08
+  rotate: false
+  xy: 488, 221
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_09
+  rotate: false
+  xy: 675, 221
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_10
+  rotate: false
+  xy: 862, 221
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_11
+  rotate: false
+  xy: 1049, 221
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_12
+  rotate: false
+  xy: 1236, 168
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_13
+  rotate: false
+  xy: 189, 2
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_14
+  rotate: false
+  xy: 376, 2
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_15
+  rotate: false
+  xy: 563, 2
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_16
+  rotate: false
+  xy: 750, 2
+  size: 185, 81
+  orig: 185, 81
+  offset: 0, 0
+  index: -1
+vfx/water
+  rotate: false
+  xy: 2, 254
+  size: 297, 69
+  orig: 297, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Terrast.png
+size: 929,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 315, 9
+  size: 85, 124
+  orig: 85, 124
+  offset: 0, 0
+  index: -1
+Fx/105 (4)
+  rotate: false
+  xy: 167, 4
+  size: 146, 90
+  orig: 146, 90
+  offset: 0, 0
+  index: -1
+Fx/117 (10)
+  rotate: false
+  xy: 441, 6
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+Fx/124 (10)
+  rotate: false
+  xy: 2, 7
+  size: 163, 87
+  orig: 163, 87
+  offset: 0, 0
+  index: -1
+Fx/124 (4)
+  rotate: false
+  xy: 2, 96
+  size: 222, 122
+  orig: 222, 122
+  offset: 0, 0
+  index: -1
+Fx/124 (5)
+  rotate: false
+  xy: 226, 96
+  size: 222, 122
+  orig: 222, 122
+  offset: 0, 0
+  index: -1
+Fx/124 (7)
+  rotate: false
+  xy: 450, 96
+  size: 222, 122
+  orig: 222, 122
+  offset: 0, 0
+  index: -1
+Fx/124 (8)
+  rotate: false
+  xy: 674, 98
+  size: 217, 120
+  orig: 217, 120
+  offset: 0, 0
+  index: -1
+Fx/124 (9)
+  rotate: false
+  xy: 674, 3
+  size: 170, 93
+  orig: 170, 93
+  offset: 0, 0
+  index: -1
+Fx/534 (2)
+  rotate: true
+  xy: 893, 138
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+Fx/534 (4)
+  rotate: true
+  xy: 893, 72
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Fx/534 (5)
+  rotate: false
+  xy: 846, 8
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Fx/535_1 (1)
+  rotate: true
+  xy: 627, 49
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Fx/535_1 (2)
+  rotate: false
+  xy: 543, 56
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Fx/535_1 (3)
+  rotate: false
+  xy: 551, 17
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Fx/535_1 (6)
+  rotate: false
+  xy: 887, 52
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Fx/535_2 (7)
+  rotate: false
+  xy: 510, 2
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+G1
+  rotate: true
+  xy: 627, 67
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+G2
+  rotate: true
+  xy: 582, 65
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+G3
+  rotate: false
+  xy: 510, 40
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+G4
+  rotate: false
+  xy: 846, 37
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1

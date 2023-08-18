@@ -1,0 +1,90 @@
+
+mama_sunflower.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+autumn_flower
+  rotate: false
+  xy: 2, 534
+  size: 530, 478
+  orig: 530, 478
+  offset: 0, 0
+  index: -1
+autumn_goc
+  rotate: false
+  xy: 482, 340
+  size: 258, 128
+  orig: 258, 128
+  offset: 0, 0
+  index: -1
+autumn_lip
+  rotate: false
+  xy: 612, 241
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 612, 281
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 482, 470
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+heartshape
+  rotate: false
+  xy: 669, 305
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+spring_flower
+  rotate: true
+  xy: 534, 482
+  size: 530, 478
+  orig: 530, 478
+  offset: 0, 0
+  index: -1
+spring_goc
+  rotate: true
+  xy: 742, 222
+  size: 258, 128
+  orig: 258, 128
+  offset: 0, 0
+  index: -1
+spring_lip
+  rotate: false
+  xy: 612, 201
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+summer_flower
+  rotate: true
+  xy: 2, 2
+  size: 530, 478
+  orig: 530, 478
+  offset: 0, 0
+  index: -1
+summer_goc
+  rotate: true
+  xy: 482, 80
+  size: 258, 128
+  orig: 258, 128
+  offset: 0, 0
+  index: -1
+summer_lip
+  rotate: false
+  xy: 652, 241
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

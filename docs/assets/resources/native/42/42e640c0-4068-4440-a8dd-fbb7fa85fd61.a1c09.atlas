@@ -1,0 +1,34 @@
+
+Beebuzz.png
+size: 176,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 112, 132
+  orig: 112, 132
+  offset: 0, 0
+  index: -1
+One
+  rotate: false
+  xy: 136, 76
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Three
+  rotate: false
+  xy: 136, 22
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Two
+  rotate: false
+  xy: 136, 47
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

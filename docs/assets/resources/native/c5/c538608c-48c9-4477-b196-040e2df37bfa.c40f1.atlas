@@ -1,0 +1,125 @@
+
+Valefang.png
+size: 442,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FootR1
+  rotate: false
+  xy: 337, 3
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+FootR2
+  rotate: true
+  xy: 380, 64
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Slash
+  rotate: false
+  xy: 122, 2
+  size: 64, 106
+  orig: 64, 106
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 8
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 382, 10
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 378, 47
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+feet_R_B
+  rotate: false
+  xy: 351, 51
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+feet_R_F
+  rotate: false
+  xy: 380, 27
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+ham
+  rotate: false
+  xy: 188, 3
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 188, 31
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+leg_L_B
+  rotate: false
+  xy: 302, 2
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+leg_R_B_1
+  rotate: true
+  xy: 337, 17
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+leg_R_B_3
+  rotate: false
+  xy: 419, 14
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+leg_R_F
+  rotate: false
+  xy: 302, 43
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 371, 2
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+mouth_B
+  rotate: true
+  xy: 351, 72
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 259, 4
+  size: 104, 41
+  orig: 104, 41
+  offset: 0, 0
+  index: -1

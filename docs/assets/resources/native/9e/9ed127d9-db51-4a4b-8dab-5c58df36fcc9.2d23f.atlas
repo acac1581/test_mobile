@@ -1,0 +1,20 @@
+
+Bango.png
+size: 282,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 138, 100
+  orig: 138, 100
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 142, 2
+  size: 138, 100
+  orig: 138, 100
+  offset: 0, 0
+  index: -1

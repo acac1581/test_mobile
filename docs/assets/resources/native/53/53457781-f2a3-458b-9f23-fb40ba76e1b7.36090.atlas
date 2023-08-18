@@ -1,0 +1,307 @@
+
+Slithreen.png
+size: 681,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 396
+  size: 201, 116
+  orig: 201, 116
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 661, 269
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 662, 253
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Eyebrow_L
+  rotate: false
+  xy: 631, 261
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Eyebrow_R
+  rotate: false
+  xy: 634, 232
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Horn
+  rotate: false
+  xy: 630, 206
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 249, 14
+  size: 9, 51
+  orig: 9, 51
+  offset: 0, 0
+  index: -1
+Mouth_B
+  rotate: true
+  xy: 133, 142
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Mouth_T
+  rotate: false
+  xy: 598, 236
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+White_Eye
+  rotate: false
+  xy: 598, 251
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/02
+  rotate: false
+  xy: 205, 404
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/03
+  rotate: false
+  xy: 52, 286
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/04
+  rotate: false
+  xy: 300, 404
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/05
+  rotate: false
+  xy: 395, 404
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/06
+  rotate: false
+  xy: 490, 404
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/07
+  rotate: false
+  xy: 585, 404
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/08
+  rotate: false
+  xy: 52, 176
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/09
+  rotate: false
+  xy: 205, 294
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/10
+  rotate: false
+  xy: 300, 294
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/11
+  rotate: false
+  xy: 395, 294
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/12
+  rotate: false
+  xy: 490, 294
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/13
+  rotate: false
+  xy: 585, 294
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/14
+  rotate: true
+  xy: 205, 141
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/15
+  rotate: true
+  xy: 315, 141
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/16
+  rotate: true
+  xy: 425, 141
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_charge_1/17
+  rotate: false
+  xy: 535, 126
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_01
+  rotate: true
+  xy: 147, 265
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_02
+  rotate: false
+  xy: 205, 236
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_03
+  rotate: false
+  xy: 336, 236
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_04
+  rotate: false
+  xy: 467, 236
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_05
+  rotate: true
+  xy: 147, 134
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_06
+  rotate: false
+  xy: 2, 118
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_07
+  rotate: false
+  xy: 2, 60
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_08
+  rotate: false
+  xy: 2, 2
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_09
+  rotate: true
+  xy: 133, 3
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_10
+  rotate: true
+  xy: 191, 3
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_11
+  rotate: false
+  xy: 249, 83
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_12
+  rotate: false
+  xy: 380, 83
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_13
+  rotate: false
+  xy: 249, 25
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_14
+  rotate: false
+  xy: 380, 25
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_15
+  rotate: false
+  xy: 511, 68
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/fx_impact_1/impact_16
+  rotate: false
+  xy: 511, 10
+  size: 129, 56
+  orig: 129, 56
+  offset: 0, 0
+  index: -1
+vfx/water
+  rotate: true
+  xy: 2, 186
+  size: 208, 48
+  orig: 208, 48
+  offset: 0, 0
+  index: -1
