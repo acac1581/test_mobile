@@ -627,16 +627,19 @@ System.register("chunks:///_virtual/Test2.ts", ['./rollupPluginModLoBabelHelpers
 
           var universalLink = this.connector.connect(sources);
           console.log(universalLink);
-          try {
-            console.log("Telegram.WebApp.openLink");
-            Telegram.WebApp.openLink(universalLink, {
-              try_instant_view: true
-            });
-          } catch (error) {
-            console.log(error, "window.open");
-            window.open(universalLink);
-          }
+          window.open(universalLink, "_blank");
+
+          // try {
+          //     console.log("Telegram.WebApp.openLink");
+          //     Telegram.WebApp.openLink(universalLink, {
+          //         try_instant_view: true
+          //     });
+          // } catch (error) {
+          //     console.log(error, "window.open");
+          //     window.open(universalLink);
+          // }
         };
+
         _proto.Disconnect = function Disconnect() {
           console.log("Disconnect");
           // this.tonConnectUI.disconnect();

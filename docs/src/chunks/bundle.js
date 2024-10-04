@@ -200,7 +200,7 @@ System.register("chunks:///_virtual/cjs-loader.mjs", [], function (exports) {
   };
 });
 
-System.register("chunks:///_virtual/index.mjs", ['./rollupPluginModLoBabelHelpers.js', './index3.mjs', './browser.mjs_cjs=&original=.js', './browser.mjs_cjs=&original=2.js'], function (exports) {
+System.register("chunks:///_virtual/index.mjs", ['./rollupPluginModLoBabelHelpers.js', './index3.mjs', './browser.mjs_cjs=&original=2.js', './browser.mjs_cjs=&original=.js'], function (exports) {
   var _inheritsLoose, _assertThisInitialized, _createClass, _wrapNativeSuper, _regeneratorRuntime, CONNECT_EVENT_ERROR_CODES, SEND_TRANSACTION_ERROR_CODES, SessionCrypto, hexToByteArray, Base64;
   return {
     setters: [function (module) {
