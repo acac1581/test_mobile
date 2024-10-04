@@ -629,27 +629,14 @@ System.register("chunks:///_virtual/Test2.ts", ['./rollupPluginModLoBabelHelpers
           console.log(universalLink);
           try {
             console.log("Telegram.WebApp.openLink");
-            Telegram.WebApp.openLink(universalLink);
+            Telegram.WebApp.openLink(universalLink, {
+              try_instant_view: true
+            });
           } catch (error) {
             console.log(error, "window.open");
             window.open(universalLink);
           }
-
-          // var linker = new DeepLinker({
-          //     onIgnored: function () {
-          //         console.log('browser failed to respond to the deep link');
-          //     },
-          //     onFallback: function () {
-          //         console.log('dialog hidden or user returned to tab');
-          //     },
-          //     onReturn: function () {
-          //         console.log('user returned to the page from the native app');
-          //     },
-          // });
-
-          // linker.openURL(universalLink);
         };
-
         _proto.Disconnect = function Disconnect() {
           console.log("Disconnect");
           // this.tonConnectUI.disconnect();
