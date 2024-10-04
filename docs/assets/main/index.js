@@ -277,7 +277,7 @@ System.register("chunks:///_virtual/main", ['./debug-view-runtime-control.ts', '
   };
 });
 
-System.register("chunks:///_virtual/Test1.ts", ['./rollupPluginModLoBabelHelpers.js', 'cc', './index2.mjs'], function (exports) {
+System.register("chunks:///_virtual/Test1.ts", ['./rollupPluginModLoBabelHelpers.js', 'cc', './index.mjs'], function (exports) {
   var _inheritsLoose, _asyncToGenerator, _regeneratorRuntime, cclegacy, _decorator, Component, lib_default;
   return {
     setters: [function (module) {
@@ -537,7 +537,7 @@ System.register("chunks:///_virtual/Test1.ts", ['./rollupPluginModLoBabelHelpers
   };
 });
 
-System.register("chunks:///_virtual/Test2.ts", ['./rollupPluginModLoBabelHelpers.js', 'cc', './index.mjs'], function (exports) {
+System.register("chunks:///_virtual/Test2.ts", ['./rollupPluginModLoBabelHelpers.js', 'cc', './index2.mjs'], function (exports) {
   var _inheritsLoose, _asyncToGenerator, _regeneratorRuntime, cclegacy, _decorator, Component, TonConnect;
   return {
     setters: [function (module) {
@@ -627,19 +627,14 @@ System.register("chunks:///_virtual/Test2.ts", ['./rollupPluginModLoBabelHelpers
 
           var universalLink = this.connector.connect(sources);
           console.log(universalLink);
-          window.open(universalLink, "_blank");
-
-          // try {
-          //     console.log("Telegram.WebApp.openLink");
-          //     Telegram.WebApp.openLink(universalLink, {
-          //         try_instant_view: true
-          //     });
-          // } catch (error) {
-          //     console.log(error, "window.open");
-          //     window.open(universalLink);
-          // }
+          try {
+            console.log("Telegram.WebApp.openLink");
+            Telegram.WebApp.openTelegramLink(universalLink);
+          } catch (error) {
+            console.log(error, "window.open");
+            window.open(universalLink);
+          }
         };
-
         _proto.Disconnect = function Disconnect() {
           console.log("Disconnect");
           // this.tonConnectUI.disconnect();
