@@ -200,102 +200,7 @@ System.register("chunks:///_virtual/cjs-loader.mjs", [], function (exports) {
   };
 });
 
-System.register("chunks:///_virtual/index.mjs", ['./rollupPluginModLoBabelHelpers.js'], function (exports) {
-  var _asyncToGenerator, _regeneratorRuntime;
-  return {
-    setters: [function (module) {
-      _asyncToGenerator = module.asyncToGenerator;
-      _regeneratorRuntime = module.regeneratorRuntime;
-    }],
-    execute: function () {
-      // lib/index.ts
-      var timeoutPromise = function timeoutPromise(promise, authTimeoutMs) {
-        return Promise.race([promise, new Promise(function (_, reject) {
-          setTimeout(function () {
-            reject(new Error("Telegram authentication timed out"));
-          }, authTimeoutMs);
-        })]);
-      };
-      var telegramAuth = /*#__PURE__*/function () {
-        var _ref = _asyncToGenerator( /*#__PURE__*/_regeneratorRuntime().mark(function _callee(botId, options) {
-          var _options, _options$requestAcces, requestAccess, _options$windowFeatur, windowFeatures, _options$windowTarget, windowTarget, _options$authTimeoutM, authTimeoutMs, _options$windowClosed, windowClosedPollMs, getTgListener, tgListener, hasReceivedResponse, searchParams, features, win, isClosedInterval, isClosedPoll, result;
-          return _regeneratorRuntime().wrap(function _callee$(_context) {
-            while (1) switch (_context.prev = _context.next) {
-              case 0:
-                if (options === void 0) {
-                  options = {};
-                }
-                _options = options, _options$requestAcces = _options.requestAccess, requestAccess = _options$requestAcces === void 0 ? "read" : _options$requestAcces, _options$windowFeatur = _options.windowFeatures, windowFeatures = _options$windowFeatur === void 0 ? {} : _options$windowFeatur, _options$windowTarget = _options.windowTarget, windowTarget = _options$windowTarget === void 0 ? "_blank" : _options$windowTarget, _options$authTimeoutM = _options.authTimeoutMs, authTimeoutMs = _options$authTimeoutM === void 0 ? 12e4 : _options$authTimeoutM, _options$windowClosed = _options.windowClosedPollMs, windowClosedPollMs = _options$windowClosed === void 0 ? 300 : _options$windowClosed;
-                getTgListener = function getTgListener(resolve, reject) {
-                  return function (event) {
-                    if (event.isTrusted && event.origin === "https://oauth.telegram.org") {
-                      try {
-                        var _JSON$parse = JSON.parse(event.data),
-                          origin = _JSON$parse.origin,
-                          result2 = _JSON$parse.result;
-                        if (origin === window.origin) {
-                          resolve(result2);
-                        } else {
-                          reject(new Error("Received data contains invalid origin. Expected " + window.origin + ", received " + origin));
-                        }
-                      } catch (_unused) {
-                        reject(new Error("Received unexpected message from Telegram"));
-                      }
-                    }
-                  };
-                };
-                hasReceivedResponse = new Promise(function (resolve, reject) {
-                  tgListener = getTgListener(resolve, reject);
-                  window.addEventListener("message", tgListener);
-                });
-                searchParams = new URLSearchParams({
-                  bot_id: botId,
-                  request_access: requestAccess,
-                  origin: window.origin,
-                  lang: "en"
-                  // TODO: Should this be a parameter? If so, what is the proper typing?
-                });
-
-                features = Object.entries(windowFeatures).map(function (_ref2) {
-                  var key = _ref2[0],
-                    val = _ref2[1];
-                  if (typeof val === "number") {
-                    return key + "=" + val;
-                  }
-                  return key;
-                }).join(",");
-                win = window.open("https://oauth.telegram.org/auth?" + searchParams, windowTarget, features);
-                isClosedPoll = new Promise(function (resolve, reject) {
-                  isClosedInterval = setInterval(function () {
-                    if (win != null && win.closed) {
-                      reject(new Error("The authentication window has been closed"));
-                    }
-                  }, windowClosedPollMs);
-                });
-                _context.next = 10;
-                return Promise.race([authTimeoutMs === 0 ? hasReceivedResponse : timeoutPromise(hasReceivedResponse, authTimeoutMs), isClosedPoll])["finally"](function () {
-                  window.removeEventListener("message", tgListener);
-                  clearInterval(isClosedInterval);
-                });
-              case 10:
-                result = _context.sent;
-                return _context.abrupt("return", result);
-              case 12:
-              case "end":
-                return _context.stop();
-            }
-          }, _callee);
-        }));
-        return function telegramAuth(_x, _x2) {
-          return _ref.apply(this, arguments);
-        };
-      }();
-      var lib_default = exports('default', telegramAuth);
-    }
-  };
-});
-
-System.register("chunks:///_virtual/index2.mjs", ['./rollupPluginModLoBabelHelpers.js', './index3.mjs', './browser.mjs_cjs=&original=.js', './browser.mjs_cjs=&original=2.js'], function (exports) {
+System.register("chunks:///_virtual/index.mjs", ['./rollupPluginModLoBabelHelpers.js', './index3.mjs', './browser.mjs_cjs=&original=2.js', './browser.mjs_cjs=&original=.js'], function (exports) {
   var _inheritsLoose, _assertThisInitialized, _createClass, _wrapNativeSuper, _regeneratorRuntime, CONNECT_EVENT_ERROR_CODES, SEND_TRANSACTION_ERROR_CODES, SessionCrypto, hexToByteArray, Base64;
   return {
     setters: [function (module) {
@@ -4503,6 +4408,101 @@ System.register("chunks:///_virtual/index2.mjs", ['./rollupPluginModLoBabelHelpe
           s = '0' + s;
         }
       }
+    }
+  };
+});
+
+System.register("chunks:///_virtual/index2.mjs", ['./rollupPluginModLoBabelHelpers.js'], function (exports) {
+  var _asyncToGenerator, _regeneratorRuntime;
+  return {
+    setters: [function (module) {
+      _asyncToGenerator = module.asyncToGenerator;
+      _regeneratorRuntime = module.regeneratorRuntime;
+    }],
+    execute: function () {
+      // lib/index.ts
+      var timeoutPromise = function timeoutPromise(promise, authTimeoutMs) {
+        return Promise.race([promise, new Promise(function (_, reject) {
+          setTimeout(function () {
+            reject(new Error("Telegram authentication timed out"));
+          }, authTimeoutMs);
+        })]);
+      };
+      var telegramAuth = /*#__PURE__*/function () {
+        var _ref = _asyncToGenerator( /*#__PURE__*/_regeneratorRuntime().mark(function _callee(botId, options) {
+          var _options, _options$requestAcces, requestAccess, _options$windowFeatur, windowFeatures, _options$windowTarget, windowTarget, _options$authTimeoutM, authTimeoutMs, _options$windowClosed, windowClosedPollMs, getTgListener, tgListener, hasReceivedResponse, searchParams, features, win, isClosedInterval, isClosedPoll, result;
+          return _regeneratorRuntime().wrap(function _callee$(_context) {
+            while (1) switch (_context.prev = _context.next) {
+              case 0:
+                if (options === void 0) {
+                  options = {};
+                }
+                _options = options, _options$requestAcces = _options.requestAccess, requestAccess = _options$requestAcces === void 0 ? "read" : _options$requestAcces, _options$windowFeatur = _options.windowFeatures, windowFeatures = _options$windowFeatur === void 0 ? {} : _options$windowFeatur, _options$windowTarget = _options.windowTarget, windowTarget = _options$windowTarget === void 0 ? "_blank" : _options$windowTarget, _options$authTimeoutM = _options.authTimeoutMs, authTimeoutMs = _options$authTimeoutM === void 0 ? 12e4 : _options$authTimeoutM, _options$windowClosed = _options.windowClosedPollMs, windowClosedPollMs = _options$windowClosed === void 0 ? 300 : _options$windowClosed;
+                getTgListener = function getTgListener(resolve, reject) {
+                  return function (event) {
+                    if (event.isTrusted && event.origin === "https://oauth.telegram.org") {
+                      try {
+                        var _JSON$parse = JSON.parse(event.data),
+                          origin = _JSON$parse.origin,
+                          result2 = _JSON$parse.result;
+                        if (origin === window.origin) {
+                          resolve(result2);
+                        } else {
+                          reject(new Error("Received data contains invalid origin. Expected " + window.origin + ", received " + origin));
+                        }
+                      } catch (_unused) {
+                        reject(new Error("Received unexpected message from Telegram"));
+                      }
+                    }
+                  };
+                };
+                hasReceivedResponse = new Promise(function (resolve, reject) {
+                  tgListener = getTgListener(resolve, reject);
+                  window.addEventListener("message", tgListener);
+                });
+                searchParams = new URLSearchParams({
+                  bot_id: botId,
+                  request_access: requestAccess,
+                  origin: window.origin,
+                  lang: "en"
+                  // TODO: Should this be a parameter? If so, what is the proper typing?
+                });
+
+                features = Object.entries(windowFeatures).map(function (_ref2) {
+                  var key = _ref2[0],
+                    val = _ref2[1];
+                  if (typeof val === "number") {
+                    return key + "=" + val;
+                  }
+                  return key;
+                }).join(",");
+                win = window.open("https://oauth.telegram.org/auth?" + searchParams, windowTarget, features);
+                isClosedPoll = new Promise(function (resolve, reject) {
+                  isClosedInterval = setInterval(function () {
+                    if (win != null && win.closed) {
+                      reject(new Error("The authentication window has been closed"));
+                    }
+                  }, windowClosedPollMs);
+                });
+                _context.next = 10;
+                return Promise.race([authTimeoutMs === 0 ? hasReceivedResponse : timeoutPromise(hasReceivedResponse, authTimeoutMs), isClosedPoll])["finally"](function () {
+                  window.removeEventListener("message", tgListener);
+                  clearInterval(isClosedInterval);
+                });
+              case 10:
+                result = _context.sent;
+                return _context.abrupt("return", result);
+              case 12:
+              case "end":
+                return _context.stop();
+            }
+          }, _callee);
+        }));
+        return function telegramAuth(_x, _x2) {
+          return _ref.apply(this, arguments);
+        };
+      }();
+      var lib_default = exports('default', telegramAuth);
     }
   };
 });
