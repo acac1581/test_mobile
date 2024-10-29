@@ -74,7 +74,10 @@
                 "bundle": "main"
             }
         ],
-        "bundleVers": {},
+        "bundleVers": {
+            "internal": "b2fac",
+            "main": "8559d"
+        },
         "preloadAssets": [],
         "projectBundles": [
             "internal",
@@ -87,11 +90,11 @@
     },
     "scripting": {
         "scriptPackages": [
-            "../src/chunks/bundle.js"
+            "../src/chunks/bundle.ab6bd.js"
         ]
     },
     "launch": {
-        "launchScene": "db://assets/scene.scene"
+        "launchScene": "db://assets/scene-001.scene"
     },
     "screen": {
         "exactFitScreen": true,

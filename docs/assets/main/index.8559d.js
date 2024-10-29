@@ -305,7 +305,14 @@ System.register("chunks:///_virtual/Test1.ts", ['cc', './index.ts', './index2.mj
           this.botUserName = "acacAuthBot";
           this.botID = "7721688539";
         }
-        start() {}
+        start() {
+          try {
+            console.log("window.Telegram.WebApp.expand()");
+            window.Telegram.WebApp.expand();
+          } catch (e) {
+            console.log(e);
+          }
+        }
         init() {
           console.log('Hello world');
           this._initTonConnect();
@@ -314,7 +321,7 @@ System.register("chunks:///_virtual/Test1.ts", ['cc', './index.ts', './index2.mj
           //https://testnet.toncenter.com/api/v2/jsonRPC
           //https://toncenter.com/api/v2/jsonRPC
           this.Client = new __webpack_exports__TonClient({
-            endpoint: 'https://testnet.toncenter.com/api/v2/jsonrpc'
+            endpoint: 'https://testnet.toncenter.com/api/v2/jsonRPC'
           });
           let uiconnector = new __webpack_exports__TonConnectUI({
             manifestUrl: 'https://ton-connect.github.io/demo-dapp-with-wallet/tonconnect-manifest.json'
@@ -373,7 +380,8 @@ System.register("chunks:///_virtual/Test1.ts", ['cc', './index.ts', './index2.mj
         onBuyWithTon() {
           if (!this.isConnected()) return;
           const tonTransferReq = {
-            amount: __webpack_exports__toNano(0.01)
+            amount: __webpack_exports__toNano(0.01),
+            customPayload: "aaaaaaaaaaaaaaa111"
           };
           this._cocosGameFi.buyWithTon(tonTransferReq).then(val => {
             console.log(val);
@@ -389,11 +397,11 @@ System.register("chunks:///_virtual/Test1.ts", ['cc', './index.ts', './index2.mj
             console.log(jettonContent);
             const jettonWallet = await openJetton.getWallet(tonAddress);
             const jettonWalletData = await jettonWallet.getData();
-            console.log(jettonWalletData.balance);
+            console.log("jetton: ", jettonWalletData.balance);
           };
           show(this._cocosGameFi, this.jettonMasterAddress, this.currentWallet);
-          this.Client.getBalance(this.jettonMasterAddress).then(val => {
-            console.log(Number(val));
+          this.Client.getBalance(this.currentWallet).then(val => {
+            console.log("ton: ", val);
           });
         }
         async onTransferJetton() {
