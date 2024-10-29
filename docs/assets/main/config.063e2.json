@@ -6,11 +6,11 @@
         "internal"
     ],
     "uuids": [
-        "0b6854327",
+        "0bb3a662a",
         "20835ba4-6145-4fbc-a58a-051ce700aa3e",
         "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
         "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-        "2e225c10-a632-4ab2-9ba8-728c7c92a4ec",
+        "40cf1151-2de5-4402-8a26-fe0b76fb3ec2",
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
@@ -35,8 +35,8 @@
         "fd8ec536-a354-4a17-9c74-4f3883c378c8"
     ],
     "paths": {
-        "2e225c10-a632-4ab2-9ba8-728c7c92a4ec": [
-            "db:/assets/scene-001",
+        "40cf1151-2de5-4402-8a26-fe0b76fb3ec2": [
+            "db:/assets/scene",
             "cc.SceneAsset",
             1
         ],
@@ -52,14 +52,14 @@
         ]
     },
     "scenes": {
-        "db://assets/scene-001.scene": "2e225c10-a632-4ab2-9ba8-728c7c92a4ec"
+        "db://assets/scene.scene": "40cf1151-2de5-4402-8a26-fe0b76fb3ec2"
     },
     "packs": {
-        "0b6854327": [
+        "0bb3a662a": [
             "20835ba4-6145-4fbc-a58a-051ce700aa3e",
             "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
             "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-            "2e225c10-a632-4ab2-9ba8-728c7c92a4ec",
+            "40cf1151-2de5-4402-8a26-fe0b76fb3ec2",
             "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
             "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
             "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
@@ -85,8 +85,8 @@
     },
     "versions": {
         "import": [
-            "0b6854327",
-            "60bb2"
+            "0bb3a662a",
+            "94c73"
         ],
         "native": [
             "20835ba4-6145-4fbc-a58a-051ce700aa3e",

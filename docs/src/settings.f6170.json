@@ -76,7 +76,7 @@
         ],
         "bundleVers": {
             "internal": "b2fac",
-            "main": "8559d"
+            "main": "063e2"
         },
         "preloadAssets": [],
         "projectBundles": [
@@ -94,7 +94,7 @@
         ]
     },
     "launch": {
-        "launchScene": "db://assets/scene-001.scene"
+        "launchScene": "db://assets/scene.scene"
     },
     "screen": {
         "exactFitScreen": true,
