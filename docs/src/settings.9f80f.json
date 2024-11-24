@@ -52,7 +52,7 @@
         ],
         "bundleVers": {
             "internal": "33749",
-            "main": "96547",
+            "main": "9c3e8",
             "resources": "5f406"
         },
         "preloadAssets": [],
@@ -68,7 +68,7 @@
     },
     "scripting": {
         "scriptPackages": [
-            "../src/chunks/bundle.8136c.js"
+            "../src/chunks/bundle.582b4.js"
         ]
     },
     "launch": {
