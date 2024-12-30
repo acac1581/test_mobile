@@ -230,6 +230,11 @@
         "fdb81a02-0de4-4815-b72e-c6e6488bc1ee@f9941"
     ],
     "paths": {
+        "5d327c0f-077e-45db-8c09-b149586cc9dc": [
+            "TeleBotToken",
+            "cc.TextAsset",
+            1
+        ],
         "66974462-7e88-4d9c-bdc7-7907aa0e81d6": [
             "anim/Blue/idle",
             "cc.AnimationClip",
@@ -248,11 +253,6 @@
         "7f484817-724e-4120-a606-37dae5744b77": [
             "anim/Yellow/idle",
             "cc.AnimationClip",
-            1
-        ],
-        "5d327c0f-077e-45db-8c09-b149586cc9dc": [
-            "TeleBotToken",
-            "cc.TextAsset",
             1
         ]
     },
