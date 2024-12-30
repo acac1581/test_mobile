@@ -86,6 +86,7 @@
         "5bee3ff0-5dd0-4f7a-9e41-18c9f52f74d6",
         "5bee3ff0-5dd0-4f7a-9e41-18c9f52f74d6@6c48a",
         "5bee3ff0-5dd0-4f7a-9e41-18c9f52f74d6@f9941",
+        "5d327c0f-077e-45db-8c09-b149586cc9dc",
         "66974462-7e88-4d9c-bdc7-7907aa0e81d6",
         "6ab25416-c976-427e-8597-eeb80b57197b",
         "6ab25416-c976-427e-8597-eeb80b57197b@6c48a",
@@ -247,6 +248,11 @@
         "7f484817-724e-4120-a606-37dae5744b77": [
             "anim/Yellow/idle",
             "cc.AnimationClip",
+            1
+        ],
+        "5d327c0f-077e-45db-8c09-b149586cc9dc": [
+            "TeleBotToken",
+            "cc.TextAsset",
             1
         ]
     },
@@ -479,6 +485,8 @@
             "ba492",
             "5bee3ff0-5dd0-4f7a-9e41-18c9f52f74d6",
             "ba492",
+            "5d327c0f-077e-45db-8c09-b149586cc9dc",
+            "e328c",
             "66974462-7e88-4d9c-bdc7-7907aa0e81d6",
             "151e8",
             "6ab25416-c976-427e-8597-eeb80b57197b",
