@@ -1,0 +1,30 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "5d327c0f-077e-45db-8c09-b149586cc9dc"
+    ],
+    "paths": {
+        "5d327c0f-077e-45db-8c09-b149586cc9dc": [
+            "TeleBotToken",
+            "cc.TextAsset",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "5d327c0f-077e-45db-8c09-b149586cc9dc",
+            "e328c"
+        ],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
